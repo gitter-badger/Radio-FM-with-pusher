@@ -1,4 +1,6 @@
 Radio-FM-with-pusher
+
+You can listen and share cool musics from here, simple app which is using pusher api..
 ====================
 
-Simple radio fm app with developed Gabor Rusznyak and Mert Nesvat.
+Radio Fm app with developed Gabor Rusznyak and Mert Nesvat.
